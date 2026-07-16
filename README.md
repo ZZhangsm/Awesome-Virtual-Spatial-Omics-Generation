@@ -1,17 +1,19 @@
 # Awesome H&E-to-Spatial-Transcriptomics Translation
 
-[![Visitors](https://visitor-badge.laobi.icu/badge?page_id=ZZhangsm.Awesome-H-E-to-Spatial-Transcriptomics-Translation)](https://github.com/ZZhangsm/Awesome-H-E-to-Spatial-Transcriptomics-Translation)
-[![GitHub](https://img.shields.io/badge/GitHub-Repository-181717?logo=github)](https://github.com/ZZhangsm/Awesome-H-E-to-Spatial-Transcriptomics-Translation)
-[![Awesome](https://awesome.re/badge.svg)](https://github.com/sindresorhus/awesome)
+[Visitors](https://github.com/ZZhangsm/Awesome-H-E-to-Spatial-Transcriptomics-Translation)
+[GitHub](https://github.com/ZZhangsm/Awesome-H-E-to-Spatial-Transcriptomics-Translation)
+[Awesome](https://github.com/sindresorhus/awesome)
 
 ## Overview
 
-![Overview](overview.png)
+Overview
 
 A curated collection of works on translating hematoxylin and eosin (H&E) stained histopathology images into spatial transcriptomics.  
 This repository includes **papers, code, and datasets**, and focuses exclusively on **generative translation from H&E images to spatially resolved gene expression**.
 
 ---
+
+
 
 ## 📌 Introduction
 
@@ -21,8 +23,6 @@ Recent advances in machine learning and generative modeling have enabled the tra
 This repository aims to collect and organize resources in this direction to facilitate research and applications.
 
 ## 📋 Table of Contents
-
-
 
 - [📚 Papers](#papers)
   - [Protocol, Benchmark and Survey](#protocol-benchmark-and-survey)
@@ -38,14 +38,6 @@ This repository aims to collect and organize resources in this direction to faci
 
 
 
-
-
-
-
-
-
-
-
 ## 📚 Papers
 
 
@@ -56,11 +48,10 @@ This repository aims to collect and organize resources in this direction to faci
 | Year | Title                                                                                                                     | Venue        | Field     | Paper                                                      |
 | ---- | ------------------------------------------------------------------------------------------------------------------------- | ------------ | --------- | ---------------------------------------------------------- |
 | 2025 | **Benchmarking the translational potential of spatial gene expression prediction from histology**                         | Nat. Commun. | Benchmark | [link](https://www.nature.com/articles/s41467-025-56618-y) |
+| 2025 | **A Large-Scale Benchmark of Cross-Modal Learning for Histology and Gene Expression in Spatial Transcriptomics**                         | ICCV Workshop | Benchmark | [link](https://openaccess.thecvf.com/content/ICCV2025W/CVAMD/html/Gindra_A_Large-Scale_Benchmark_of_Cross-Modal_Learning_for_Histology_and_Gene_ICCVW_2025_paper.html) |
 | 2025 | **Combining spatial transcriptomics with tissue morphology**                                                              | Nat. Commun. | Survey    | [link](https://www.nature.com/articles/s41467-025-58989-8) |
 | 2025 | **Generative Models in Computational Pathology: A Comprehensive Survey on Methods, Applications, and Challenges**         | arXiv        | Survey    | [link](https://arxiv.org/abs/2505.10993)                   |
 | 2024 | **From whole-slide image to biomarker prediction: end-to-end weakly supervised deep learning in computational pathology** | Nat. Protoc. | Protocol  | [link](https://www.nature.com/articles/s41596-024-01047-2) |
-
-
 
 
 
@@ -74,7 +65,7 @@ This repository aims to collect and organize resources in this direction to faci
 
 | Year | Title                                                                                                                                                              | Venue        | Method     | Paper                                                                                                                                                                               | Code                                                         |
 | ---- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ------------ | ---------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------ |
-| 2026 | **Contrastive and Adaptive Multi-modal Masked Autoencoder for Spatial Transcriptomics** | arXiv      | CAMMST     | [link](https://arxiv.org/pdf/2606.21156) | [link](https://github.com/Kyyle2114/CAMMST)        |
+| 2026 | **Contrastive and Adaptive Multi-modal Masked Autoencoder for Spatial Transcriptomics**                                                                            | arXiv        | CAMMST     | [link](https://arxiv.org/pdf/2606.21156)                                                                                                                                            | [link](https://github.com/Kyyle2114/CAMMST)                  |
 | 2026 | **Integrating Histology with Spatial Molecular Programs Using a Multimodal Foundation Model**                                                                      | bioRxiv      | SQUALL     | [link](https://doi.org/10.64898/2026.06.01.729028)                                                                                                                                  | [link](https://github.com/OswaldZhang/SQUALL-release)        |
 | 2026 | **H2O: A Foundation Model Bridging Histopathology to Spatial Multi-Omics Profiling**                                                                               | bioRxiv      | H2O        | [link](https://www.biorxiv.org/content/10.64898/2026.04.21.717342v1)                                                                                                                | [link](https://github.com/TencentAILabHealthcare/H2O)        |
 | 2026 | **A Multimodal Foundation Model of Spatial Transcriptomics and Histology for Biological Discovery and Clinical Prediction**                                        | arXiv        | STORM      | [link](https://arxiv.org/abs/2604.03630)                                                                                                                                            | [link](https://storm-web-demo.vercel.app/)                   |
@@ -82,9 +73,9 @@ This repository aims to collect and organize resources in this direction to faci
 | 2025 | **HyperST: Hierarchical Hyperbolic Learning for Spatial Transcriptomics Prediction**                                                                               | CVPR         | HyperST    | [link](https://openaccess.thecvf.com/content/CVPR2026/papers/Zhang_HyperST_Hierarchical_Hyperbolic_Learning_for_Spatial_Transcriptomics_Prediction_CVPR_2026_paper.pdf)             | [link](https://github.com/liesgame/HyperST/)                 |
 | 2026 | **AI-predicted spatial transcriptomics unlocks breast cancer biomarkers from pathology**                                                                           | Cell         | Path2Space | [link](https://www.cell.com/cell/fulltext/S0092-8674(26)00458-7)                                                                                                                    | [link](https://zenodo.org/records/14729336)                  |
 | 2026 | **Pan-cancer virtual spatial transcriptomics from routine histology with Phoenix**                                                                                 | bioRxiv      | Phoenix    | [link](https://www.biorxiv.org/content/10.64898/2026.04.25.720812v1)                                                                                                                | [link](https://github.com/peng-lab/phoenix)                  |
-| 2026 | **Predicting Gene Expression in Spatially Resolved Transcriptomics Across Samples Through Probabilistic Fusion of Hierarchical Histology and Spatial Information** | CVPR         | STevs      | [link](https://openaccess.thecvf.com/content/CVPR2026F/html/Liu_Predicting_Gene_Expression_in_Spatially_Resolved_Transcriptomics_Across_Samples_Through_CVPRF_2026_paper.html) | - |
-| 2026 | **FEAST: Fully Connected Expressive Attention for Spatial Transcriptomics** | CVPR         | FEAST      | [link](https://arxiv.org/abs/2603.25247) | [link](https://github.com/starforTJ/) |
-| 2026 | **FLAG: Foundation model representation with Latent diffusion Alignment viaGraph for spatial gene expression prediction** | ICML         | FLAG      | [link](https://arxiv.org/abs/2605.18055)      |  [link](https://github.com/darkflash03/FLAG/)                                                         |
+| 2026 | **Predicting Gene Expression in Spatially Resolved Transcriptomics Across Samples Through Probabilistic Fusion of Hierarchical Histology and Spatial Information** | CVPR         | STevs      | [link](https://openaccess.thecvf.com/content/CVPR2026F/html/Liu_Predicting_Gene_Expression_in_Spatially_Resolved_Transcriptomics_Across_Samples_Through_CVPRF_2026_paper.html)      | -                                                            |
+| 2026 | **FEAST: Fully Connected Expressive Attention for Spatial Transcriptomics**                                                                                        | CVPR         | FEAST      | [link](https://arxiv.org/abs/2603.25247)                                                                                                                                            | [link](https://github.com/starforTJ/)                        |
+| 2026 | **FLAG: Foundation model representation with Latent diffusion Alignment viaGraph for spatial gene expression prediction**                                          | ICML         | FLAG       | [link](https://arxiv.org/abs/2605.18055)                                                                                                                                            | [link](https://github.com/darkflash03/FLAG/)                 |
 | 2026 | **A Multimodal Foundation Model of Spatial Transcriptomics and Histology for Biological Discovery and Clinical Prediction**                                        | arXiv        | STORM      | [link](https://arxiv.org/abs/2604.03630)                                                                                                                                            | [link](https://storm-web-demo.vercel.app/)                   |
 | 2026 | **MoLF: Mixture-of-Latent-Flow for Pan-Cancer Spatial Gene Expression Prediction from Histology**                                                                  | arXiv        | MoLF       | [link](https://arxiv.org/abs/2602.02282)                                                                                                                                            | [link](https://susuhu.github.io/MoLF/)                       |
 | 2026 | **HiST: Histological Images Reconstruct Tumor Spatial Transcriptomics via MultiScale Fusion Deep Learning**                                                        | Adv. Sci.    | HiST       | [link](https://advanced.onlinelibrary.wiley.com/doi/10.1002/advs.202514351?af=R)                                                                                                    | [link](https://github.com/Yelab2020/HiST)                    |
@@ -99,13 +90,13 @@ This repository aims to collect and organize resources in this direction to faci
 
 | Year | Title                                                                                                                                                   | Venue              | Method     | Paper                                                                        | Code                                                           |
 | ---- | ------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------ | ---------- | ---------------------------------------------------------------------------- | -------------------------------------------------------------- |
-| 2025 | **MERGE: Multi-faceted Hierarchical Graph-based GNN for Gene Expression Prediction from Whole Slide Histopathology Images** | CVPR      | MERGE  | [link](https://arxiv.org/abs/2412.02601)                           | [link](https://github.com/ags3927/MERGE)                 |
-| 2025 | **High-parameter spatial multi-omics through histology-anchored integration** | Nat. Methods       | SpatialEx  | [link](https://doi.org/10.1038/s41592-025-02926-6)                           | [link](https://github.com/KEAML-JLU/SpatialEx)                 |
-| 2025 | **PRTS: Predicting Single-Cell Spatial Transcriptomic Maps from Histological Images** | Research           | PRTS       | [link](https://doi.org/10.34133/research.0961)                               | [link](https://github.com/morkwok/PRTS)                        |
-| 2025 | **Generating crossmodal gene expression from cancer histopathology improves multimodal AI predictions** | Nat. Commun.       | PathGen    | [link](https://doi.org/10.1038/s41467-025-66961-9)                           | [link](https://github.com/Samiran-Dey/PathGen)                 |
-| 2025 | **STPath: a generative foundation model for integrating spatial transcriptomics and whole-slide images** | npj Digit. Med.    | STPath     | [link](https://www.nature.com/articles/s41746-025-02020-3)                   | [link](https://github.com/Graph-and-Geometric-Learning/STPath) |
+| 2025 | **MERGE: Multi-faceted Hierarchical Graph-based GNN for Gene Expression Prediction from Whole Slide Histopathology Images**                             | CVPR               | MERGE      | [link](https://arxiv.org/abs/2412.02601)                                     | [link](https://github.com/ags3927/MERGE)                       |
+| 2025 | **High-parameter spatial multi-omics through histology-anchored integration**                                                                           | Nat. Methods       | SpatialEx  | [link](https://doi.org/10.1038/s41592-025-02926-6)                           | [link](https://github.com/KEAML-JLU/SpatialEx)                 |
+| 2025 | **PRTS: Predicting Single-Cell Spatial Transcriptomic Maps from Histological Images**                                                                   | Research           | PRTS       | [link](https://doi.org/10.34133/research.0961)                               | [link](https://github.com/morkwok/PRTS)                        |
+| 2025 | **Generating crossmodal gene expression from cancer histopathology improves multimodal AI predictions**                                                 | Nat. Commun.       | PathGen    | [link](https://doi.org/10.1038/s41467-025-66961-9)                           | [link](https://github.com/Samiran-Dey/PathGen)                 |
+| 2025 | **STPath: a generative foundation model for integrating spatial transcriptomics and whole-slide images**                                                | npj Digit. Med.    | STPath     | [link](https://www.nature.com/articles/s41746-025-02020-3)                   | [link](https://github.com/Graph-and-Geometric-Learning/STPath) |
 | 2025 | **A deep learning-based multiscale integration of spatial omics with tumor morphology**                                                                 | Nat. Commun.       | MISO       | [link](https://www.nature.com/articles/s41467-025-66691-y)                   | [link](https://github.com/owkin/miso_code)                     |
-| 2025 | **GenAR: Next-Scale Autoregressive Generation for Spatial Gene Expression Prediction** | arXiv              | GenAR      | [link](https://arxiv.org/abs/2510.04315v1)                                   | [link](https://github.com/oyjr/genar)                          |
+| 2025 | **GenAR: Next-Scale Autoregressive Generation for Spatial Gene Expression Prediction**                                                                  | arXiv              | GenAR      | [link](https://arxiv.org/abs/2510.04315v1)                                   | [link](https://github.com/oyjr/genar)                          |
 | 2025 | **Scaling up spatial transcriptomics for large-sized tissues: uncovering cellular-level tissue architecture beyond conventional platforms with iSCALE** | Nat. Methods       | iSCALE     | [link](https://www.nature.com/articles/s41592-025-02770-8)                   | [link](https://github.com/amesch441/iSCALE)                    |
 | 2025 | **Spatial gene expression at single-cell resolution from histology using deep learning with GHIST**                                                     | Nat. Methods       | GHIST      | [link](https://www.nature.com/articles/s41592-025-02795-z)                   | [link](https://github.com/SydneyBioX/GHIST)                    |
 | 2025 | **FmH2ST: foundation model-based spatial transcriptomics generation from histological images**                                                          | Nucleic Acids Res. | FmH2ST     | [link](https://doi.org/10.1093/nar/gkaf865)                                  | [link](https://www.sdu-idea.cn/codes.php?name=FmH2ST)          |
@@ -157,6 +148,18 @@ This repository aims to collect and organize resources in this direction to faci
 
 
 
+### Gene To WSI
+
+
+| Year | Title                                                                      | Venue | Method  | Paper                                                                                                                                                        | Code                                            |
+| ---- | -------------------------------------------------------------------------- | ----- | ------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------ | ----------------------------------------------- |
+| 2026 | **GeneVAR: Causal MeanFlow for Autoregressive Gene-to-WSI Tile Synthesis** | CVPR  | GeneVAR | [link](https://openaccess.thecvf.com/content/CVPR2026/papers/Zhao_GeneVAR_Causal_MeanFlow_for_Autoregressive_Gene-to-WSI_Tile_Synthesis_CVPR_2026_paper.pdf) | [link](https://github.com/JWZhao-uestc/GeneVAR) |
+| 2024 | **Generation of synthetic whole-slide image tiles of tumours from RNA-sequencing data via cascaded diffusion models** | Nat. biomed. eng.  | GeneVAR | [link](https://www.nature.com/articles/s41551-024-01193-8) | [link](https://rna-cdm.stanford.edu/) |
+
+
+
+
+
 ### H&E To Biomarker
 
 
@@ -178,8 +181,6 @@ This repository aims to collect and organize resources in this direction to faci
 | 2024 | **Clinical utility of receptor status prediction in breast cancer and misdiagnosis identification using deep learning on H&E-stained slides**  | Commun. Med.          | -             | [link](https://www.nature.com/articles/s43856-024-00695-5)                                  | [link](https://github.com/shachar5020/TransformerMIL4ReceptorPrediction) |
 | 2023 | **Semi-Supervised, Attention-Based Deep Learning for Predicting TMPRSS2:ERG Fusion Status in Prostate Cancer Using Whole Slide Images**        | Mol. Cancer Res.      | -             | [link](https://pmc.ncbi.nlm.nih.gov/articles/PMC10985477/)                                  | [link](https://github.com/MohamedOmar2020/pca_ERG)                       |
 | 2023 | **Optimization of deep learning models for the prediction of gene mutations using unsupervised clustering**                                    | J. Pathol. Clin. Res. | -             | [link](https://pubmed.ncbi.nlm.nih.gov/36376239/)                                           | -                                                                        |
-
-
 
 
 
