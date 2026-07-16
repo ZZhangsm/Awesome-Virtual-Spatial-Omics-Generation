@@ -1,12 +1,10 @@
 # Awesome H&E-to-Spatial-Transcriptomics Translation
 
-[Visitors](https://github.com/ZZhangsm/Awesome-H-E-to-Spatial-Transcriptomics-Translation)
-[GitHub](https://github.com/ZZhangsm/Awesome-H-E-to-Spatial-Transcriptomics-Translation)
-[Awesome](https://github.com/sindresorhus/awesome)
-
+[![Visitors](https://visitor-badge.laobi.icu/badge?page_id=ZZhangsm.Awesome-H-E-to-Spatial-Transcriptomics-Translation)](https://github.com/ZZhangsm/Awesome-H-E-to-Spatial-Transcriptomics-Translation)
+[![GitHub](https://img.shields.io/github/stars/ZZhangsm/Awesome-H-E-to-Spatial-Transcriptomics-Translation?style=social)](https://github.com/ZZhangsm/Awesome-H-E-to-Spatial-Transcriptomics-Translation)
+[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 ## Overview
 
-Overview
 
 A curated collection of works on translating hematoxylin and eosin (H&E) stained histopathology images into spatial transcriptomics.  
 This repository includes **papers, code, and datasets**, and focuses exclusively on **generative translation from H&E images to spatially resolved gene expression**.
@@ -160,7 +158,7 @@ This repository aims to collect and organize resources in this direction to faci
 | Year | Title                                                                                                                 | Venue             | Method  | Paper                                                                                                                                                        | Code                                            |
 | ---- | --------------------------------------------------------------------------------------------------------------------- | ----------------- | ------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------ | ----------------------------------------------- |
 | 2026 | **GeneVAR: Causal MeanFlow for Autoregressive Gene-to-WSI Tile Synthesis**                                            | CVPR              | GeneVAR | [link](https://openaccess.thecvf.com/content/CVPR2026/papers/Zhao_GeneVAR_Causal_MeanFlow_for_Autoregressive_Gene-to-WSI_Tile_Synthesis_CVPR_2026_paper.pdf) | [link](https://github.com/JWZhao-uestc/GeneVAR) |
-| 2024 | **Generation of synthetic whole-slide image tiles of tumours from RNA-sequencing data via cascaded diffusion models** | Nat. biomed. eng. | GeneVAR | [link](https://www.nature.com/articles/s41551-024-01193-8)                                                                                                   | [link](https://rna-cdm.stanford.edu/)           |
+| 2024 | **Generation of synthetic whole-slide image tiles of tumours from RNA-sequencing data via cascaded diffusion models** | Nat. biomed. eng. | RNA-CDM  | [link](https://www.nature.com/articles/s41551-024-01193-8)                                                                                                   | [link](https://rna-cdm.stanford.edu/)           |
 
 
 
