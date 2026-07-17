@@ -1,10 +1,10 @@
 # Awesome H&E-to-Spatial-Transcriptomics Translation
 
-[![Visitors](https://visitor-badge.laobi.icu/badge?page_id=ZZhangsm.Awesome-H-E-to-Spatial-Transcriptomics-Translation)](https://github.com/ZZhangsm/Awesome-H-E-to-Spatial-Transcriptomics-Translation)
-[![GitHub](https://img.shields.io/github/stars/ZZhangsm/Awesome-H-E-to-Spatial-Transcriptomics-Translation?style=social)](https://github.com/ZZhangsm/Awesome-H-E-to-Spatial-Transcriptomics-Translation)
-[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
-## Overview
+[Visitors](https://github.com/ZZhangsm/Awesome-H-E-to-Spatial-Transcriptomics-Translation)
+[GitHub](https://github.com/ZZhangsm/Awesome-H-E-to-Spatial-Transcriptomics-Translation)
+[Awesome](https://awesome.re)
 
+## Overview
 
 A curated collection of works on translating hematoxylin and eosin (H&E) stained histopathology images into spatial transcriptomics.  
 This repository includes **papers, code, and datasets**, and focuses exclusively on **generative translation from H&E images to spatially resolved gene expression**.
@@ -30,6 +30,7 @@ This repository aims to collect and organize resources in this direction to faci
     - [2024](#he-to-st-2024)
     - [2023 and Earlier](#he-to-st-2023-and-earlier)
   - [H&E To Biomarker](#he-to-biomarker)
+  - [Gene To WSI](#gene-to-wsi)
 - [🤝 Contributing](#contributing)
 - [📧 Contact](#contact)
 - [🙏 Acknowledgments](#acknowledgments)
@@ -61,13 +62,13 @@ This repository aims to collect and organize resources in this direction to faci
 #### 🟪 2026
 
 
-| Year | Title | Venue | Method     | Paper | Code |
+| Year | Title                                                                                                                                                              | Venue                                | Method     | Paper                                                                                                                                                                               | Code                                                         |
 | ---- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ------------------------------------ | ---------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------ |
-| 2026 | **Fusing Pixels and Genes: Spatially-Aware Learning in Computational Pathology** | ICLR | STAMP | [link](https://arxiv.org/abs/2602.13944) | [link](https://github.com/Hanminghao/STAMP) |
-| 2026 | **DeepSpot-M: a multimodal foundation model for transcriptome-wide virtual spatial transcriptomics from histology** | medRxiv | DeepSpot-M | [link](https://www.medrxiv.org/content/10.64898/2026.06.19.26356060v1) | [link](https://github.com/ratschlab/DeepSpotM) |
-| 2026 | **Contrastive and Adaptive Multi-modal Masked Autoencoder for Spatial Transcriptomics** | arXiv | CAMMST     | [link](https://arxiv.org/pdf/2606.21156) | [link](https://github.com/Kyyle2114/CAMMST) |
-| 2026 | **STAG: Biologically guided spatial transcriptomics prediction via hypergraph learning** | Medical Image Analysis               | STAG       | [link](https://www.sciencedirect.com/science/article/pii/S1361841526002756) | [link](https://github.com/MCPathology/STAG)                  |
-| 2026 | **DiffBulk: Enhancing Spatial Transcriptomic Prediction With Diffusion-Based Training**                                                                            | IEEE Transactions on Medical Imaging | DiffBulk   | [link](https://ieeexplore.ieee.org/abstract/document/11498410) | [link](https://github.com/iMVR-PL/DiffBulk)                  |
+| 2026 | **Fusing Pixels and Genes: Spatially-Aware Learning in Computational Pathology**                                                                                   | ICLR                                 | STAMP      | [link](https://arxiv.org/abs/2602.13944)                                                                                                                                            | [link](https://github.com/Hanminghao/STAMP)                  |
+| 2026 | **DeepSpot-M: a multimodal foundation model for transcriptome-wide virtual spatial transcriptomics from histology**                                                | medRxiv                              | DeepSpot-M | [link](https://www.medrxiv.org/content/10.64898/2026.06.19.26356060v1)                                                                                                              | [link](https://github.com/ratschlab/DeepSpotM)               |
+| 2026 | **Contrastive and Adaptive Multi-modal Masked Autoencoder for Spatial Transcriptomics**                                                                            | arXiv                                | CAMMST     | [link](https://arxiv.org/pdf/2606.21156)                                                                                                                                            | [link](https://github.com/Kyyle2114/CAMMST)                  |
+| 2026 | **STAG: Biologically guided spatial transcriptomics prediction via hypergraph learning**                                                                           | Medical Image Analysis               | STAG       | [link](https://www.sciencedirect.com/science/article/pii/S1361841526002756)                                                                                                         | [link](https://github.com/MCPathology/STAG)                  |
+| 2026 | **DiffBulk: Enhancing Spatial Transcriptomic Prediction With Diffusion-Based Training**                                                                            | IEEE Transactions on Medical Imaging | DiffBulk   | [link](https://ieeexplore.ieee.org/abstract/document/11498410)                                                                                                                      | [link](https://github.com/iMVR-PL/DiffBulk)                  |
 | 2026 | **Integrating Histology with Spatial Molecular Programs Using a Multimodal Foundation Model**                                                                      | bioRxiv                              | SQUALL     | [link](https://doi.org/10.64898/2026.06.01.729028)                                                                                                                                  | [link](https://github.com/OswaldZhang/SQUALL-release)        |
 | 2026 | **H2O: A Foundation Model Bridging Histopathology to Spatial Multi-Omics Profiling**                                                                               | bioRxiv                              | H2O        | [link](https://www.biorxiv.org/content/10.64898/2026.04.21.717342v1)                                                                                                                | [link](https://github.com/TencentAILabHealthcare/H2O)        |
 | 2026 | **A Multimodal Foundation Model of Spatial Transcriptomics and Histology for Biological Discovery and Clinical Prediction**                                        | arXiv                                | STORM      | [link](https://arxiv.org/abs/2604.03630)                                                                                                                                            | [link](https://storm-web-demo.vercel.app/)                   |
@@ -153,13 +154,13 @@ This repository aims to collect and organize resources in this direction to faci
 
 
 
-### Gene To WSI
+### RNA To WSI
 
 
 | Year | Title                                                                                                                 | Venue             | Method  | Paper                                                                                                                                                        | Code                                            |
 | ---- | --------------------------------------------------------------------------------------------------------------------- | ----------------- | ------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------ | ----------------------------------------------- |
 | 2026 | **GeneVAR: Causal MeanFlow for Autoregressive Gene-to-WSI Tile Synthesis**                                            | CVPR              | GeneVAR | [link](https://openaccess.thecvf.com/content/CVPR2026/papers/Zhao_GeneVAR_Causal_MeanFlow_for_Autoregressive_Gene-to-WSI_Tile_Synthesis_CVPR_2026_paper.pdf) | [link](https://github.com/JWZhao-uestc/GeneVAR) |
-| 2024 | **Generation of synthetic whole-slide image tiles of tumours from RNA-sequencing data via cascaded diffusion models** | Nat. biomed. eng. | RNA-CDM  | [link](https://www.nature.com/articles/s41551-024-01193-8)                                                                                                   | [link](https://rna-cdm.stanford.edu/)           |
+| 2024 | **Generation of synthetic whole-slide image tiles of tumours from RNA-sequencing data via cascaded diffusion models** | Nat. biomed. eng. | RNA-CDM | [link](https://www.nature.com/articles/s41551-024-01193-8)                                                                                                   | [link](https://rna-cdm.stanford.edu/)           |
 
 
 
