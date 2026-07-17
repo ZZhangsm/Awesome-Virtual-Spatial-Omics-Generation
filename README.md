@@ -1,8 +1,8 @@
 # Awesome H&E-to-Spatial-Transcriptomics Translation
 
-![Visitors](https://github.com/ZZhangsm/Awesome-H-E-to-Spatial-Transcriptomics-Translation)
-![GitHub](https://github.com/ZZhangsm/Awesome-H-E-to-Spatial-Transcriptomics-Translation)
-![Awesome](https://awesome.re)
+[![Visitors](https://visitor-badge.laobi.icu/badge?page_id=ZZhangsm.Awesome-H-E-to-Spatial-Transcriptomics-Translation)](https://github.com/ZZhangsm/Awesome-H-E-to-Spatial-Transcriptomics-Translation)
+[![GitHub](https://img.shields.io/github/stars/ZZhangsm/Awesome-H-E-to-Spatial-Transcriptomics-Translation?style=social)](https://github.com/ZZhangsm/Awesome-H-E-to-Spatial-Transcriptomics-Translation)
+[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 ## Overview
 
