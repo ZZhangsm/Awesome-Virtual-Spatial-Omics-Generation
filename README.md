@@ -200,7 +200,12 @@ This repository aims to collect and organize resources in this direction to faci
 | 2023 | **Optimization of deep learning models for the prediction of gene mutations using unsupervised clustering**                                    | J. Pathol. Clin. Res. | -             | [link](https://pubmed.ncbi.nlm.nih.gov/36376239/)                                           | -                                                                        |
 
 
+### H&E To Others
 
+
+| Year | Title | Venue | Method | Paper | Code |
+| ---- | ---------------------------------------------------------------------------------------------------------------------------------------------- | --------------------- | ------------- | ------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------ |
+| 2026 | **HisToSpatialCNV: an interpretable deep learning method predicting spatial copy number variations from histopathology images**                | Nature Biomedical Engineering | HisToSpatialCNV          | [link](https://www.nature.com/articles/s41551-026-01754-z) | - 
 
 ## 🤝 Contributing
 
