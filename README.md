@@ -179,6 +179,25 @@ This repository aims to collect and organize resources in this direction to faci
 | 2024 | **Generation of synthetic whole-slide image tiles of tumours from RNA-sequencing data via cascaded diffusion models** | Nat. biomed. eng. | RNA-CDM | [link](https://www.nature.com/articles/s41551-024-01193-8)                                                                                                   | [link](https://rna-cdm.stanford.edu/)           |
 
 
+### H&E To Others
+
+
+| Year | Title | Venue | Method | Paper | Code |
+|------|-------|-------|--------|-------|------|
+| 2026 | The Virtual Tissues foundation model resolves spatial proteomics across scales | Nature | VirTues | [Paper](https://www.nature.com/articles/s41586-026-10884-y) | [Code](https://github.com/bunnelab/virtues) |
+| 2026 | Cellular architecture and neighborhood-informed virtual spatial tumor profiling from histopathology | Cell | CANVAS | [Paper](https://www.cell.com/cell/fulltext/S0092-8674(26)00590-8) | [Code](https://github.com/lilab-stanford/CANVAS) |
+| 2026 | AI-enabled virtual spatial proteomics from histopathology for interpretable biomarker discovery in lung cancer | Nature Medicine | HEX | [Paper](https://www.nature.com/articles/s41591-025-04060-4) | [Code](https://github.com/lilab-stanford/HEX) |
+| 2026 | GigaPath-Flash and GigaTIME-Flash: Efficient Pathology Foundation Models for Whole-Slide and Tumor Microenvironment Analysis | arXiv | GigaTIME-Flash | [Paper](https://arxiv.org/abs/2607.18218) | [Code](https://github.com/prov-gigatime/GigaTIME) |
+| 2026 | Virtual Multiplex Staining for Histological Images using a Marker-wise Conditioned Diffusion Model | AAAI | DiffVS | [Paper](https://arxiv.org/abs/2508.14681) | [Code](https://github.com/hvcl/DiffVS) |
+| 2026 | Diffusion-based virtual multi-stain staining for pituitary adenoma histopathology | Computerized Medical Imaging and Graphics | One-to-many diffusion | [Paper](https://doi.org/10.1016/j.compmedimag.2026.102723) | - |
+| 2025 | Multimodal AI generates virtual population for tumor microenvironment modeling | Cell | GigaTIME | [Paper](https://doi.org/10.1016/j.cell.2025.11.016) | [Code](https://github.com/prov-gigatime/GigaTIME) |
+| 2025 | ROSIE: AI generation of multiplex immunofluorescence staining from histopathology images | Nature Communications | ROSIE | [Paper](https://www.nature.com/articles/s41467-025-62346-0) | [Code](https://huggingface.co/ericwu09/ROSIE) |
+| 2025 | Histopathology-based protein multiplex generation using deep learning | Nature Machine Intelligence | HistoPlexer | [Paper](https://www.nature.com/articles/s42256-025-01074-y) | [Code](https://github.com/ratschlab/HistoPlexer) |
+| 2025 | Multiplex Immunofluorescence Prediction from H&E Images using ViT Foundation Models | Computers in Biology and Medicine | MIPHEI-vit | [Paper](https://doi.org/10.1016/j.compbiomed.2026.111564) | - |
+| 2024 | Accelerating histopathology workflows with generative AI-based virtually multiplexed tumour profiling | Nature Machine Intelligence | VirtualMultiplexer | [Paper](https://doi.org/10.1038/s42256-024-00889-5) | [Code](https://github.com/AI4SCR/VirtualMultiplexer) |
+| 2024 | HEMIT: H&E to Multiplex-immunohistochemistry Image Translation with Dual-Branch Pix2pix Generator | MICCAI 2024 Workshop | HEMIT | [Paper](https://doi.org/10.1007/978-3-031-84525-3_16) | [Code](https://github.com/BianChang/HEMIT-DATASET) |
+| 2024 | Pathological Semantics-Preserving Learning for H&E-to-IHC Virtual Staining | MICCAI | PSPStain | [Paper](https://doi.org/10.1007/978-3-031-72083-3_36) | [Code](https://github.com/ccitachi/PSPStain) |
+| 2023 | Adaptive Supervised PatchNCE Loss for Learning H&E-to-IHC Stain Translation with Inconsistent Groundtruth Image Pairs | MICCAI | ASP | [Paper](https://doi.org/10.1007/978-3-031-43987-2_61) | [Code](https://github.com/lifangda01/AdaptiveSupervisedPatchNCE) |
 
 
 ### H&E To Biomarker
