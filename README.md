@@ -1,4 +1,4 @@
-# Awesome H&E-to-Spatial-Transcriptomics Translation
+# Awesome virtual-Spatial-Omics
 
 [![Visitors](https://visitor-badge.laobi.icu/badge?page_id=ZZhangsm.Awesome-H-E-to-Spatial-Transcriptomics-Translation)](https://github.com/ZZhangsm/Awesome-H-E-to-Spatial-Transcriptomics-Translation)
 [![GitHub](https://img.shields.io/github/stars/ZZhangsm/Awesome-H-E-to-Spatial-Transcriptomics-Translation?style=social)](https://github.com/ZZhangsm/Awesome-H-E-to-Spatial-Transcriptomics-Translation)
@@ -8,8 +8,9 @@
 
 ![Overview](overview.png)
 
-A curated collection of works on translating hematoxylin and eosin (H&E) stained histopathology images into spatial transcriptomics.  
-This repository includes **papers, code, and datasets**, and focuses exclusively on **generative translation from H&E images to spatially resolved gene expression**.
+
+A curated collection of works on translating hematoxylin and eosin (H&E) stained histopathology images into **virtual spatial omics**.  
+This repository includes **papers, code, and datasets**, and focuses exclusively on **generative translation from routine H&E images to spatially resolved molecular profiles** — including spatial transcriptomics, spatial proteomics, and molecular biomarkers.
 
 ---
 
@@ -17,25 +18,28 @@ This repository includes **papers, code, and datasets**, and focuses exclusively
 
 ## 📌 Introduction
 
-Spatial transcriptomics provides spatially resolved gene expression profiles, while H&E staining is one of the most common and cost-effective histopathology techniques.  
-Recent advances in machine learning and generative modeling have enabled the translation of H&E images into spatial gene expression, bridging the gap between routine pathology and spatial omics.  
+Virtual spatial omics refers to the computational generation of spatially resolved molecular profiles — such as gene expression, protein abundance, and molecular biomarkers — directly from routinely stained histopathology images.  
+While H&E staining is one of the most common and cost-effective histopathology techniques, spatial omics assays remain costly and not widely accessible.  
+Recent advances in machine learning and generative modeling now enable H&E-to-spatial-omics translation, bridging the gap between routine pathology and spatially resolved molecular profiling.  
 
 This repository aims to collect and organize resources in this direction to facilitate research and applications.
 
 ## 📋 Table of Contents
 
-- [📚 Papers](#papers)
+- [📚 Papers](#-papers)
   - [Protocol, Benchmark and Survey](#protocol-benchmark-and-survey)
   - [H&E To Spatial Transcriptomics](#he-to-spatial-transcriptomics)
-    - [2026](#he-to-st-2026)
-    - [2025](#he-to-st-2025)
-    - [2024](#he-to-st-2024)
-    - [2023 and Earlier](#he-to-st-2023-and-earlier)
+    - [2026](#-2026)
+    - [2025](#-2025)
+    - [2024](#-2024)
+    - [2023 and Earlier](#-2023-and-earlier)
+  - [RNA To WSI](#rna-to-wsi)
+  - [H&E To Spatial Proteomics](#he-to-spatial-proteomics)
   - [H&E To Biomarker](#he-to-biomarker)
-  - [Gene To WSI](#gene-to-wsi)
-- [🤝 Contributing](#contributing)
-- [📧 Contact](#contact)
-- [🙏 Acknowledgments](#acknowledgments)
+  - [H&E To Others](#he-to-others)
+- [🤝 Contributing](#-contributing)
+- [📧 Contact](#-contact)
+- [🙏 Acknowledgments](#-acknowledgments)
 
 
 
