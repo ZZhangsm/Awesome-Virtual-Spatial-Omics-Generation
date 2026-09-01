@@ -6,7 +6,7 @@
 
 ## Overview
 
-![Overview](overview.png)
+![Overview](overview-1.png)
 
 
 A curated collection of works on translating hematoxylin and eosin (H&E) stained histopathology images into **virtual spatial omics**.  
