@@ -179,7 +179,7 @@ This repository aims to collect and organize resources in this direction to faci
 | 2024 | **Generation of synthetic whole-slide image tiles of tumours from RNA-sequencing data via cascaded diffusion models** | Nat. biomed. eng. | RNA-CDM | [link](https://www.nature.com/articles/s41551-024-01193-8)                                                                                                   | [link](https://rna-cdm.stanford.edu/)           |
 
 
-### H&E To Others
+### H&E To Spatial Proteomics
 
 
 | Year | Title | Venue | Method | Paper | Code |
