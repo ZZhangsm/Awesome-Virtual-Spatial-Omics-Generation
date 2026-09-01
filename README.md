@@ -1,7 +1,7 @@
-# Awesome virtual-Spatial-Omics
+# Awesome Virtual Spatial Omics Generation
 
-[![Visitors](https://visitor-badge.laobi.icu/badge?page_id=ZZhangsm.Awesome-H-E-to-Spatial-Transcriptomics-Translation)](https://github.com/ZZhangsm/Awesome-H-E-to-Spatial-Transcriptomics-Translation)
-[![GitHub](https://img.shields.io/github/stars/ZZhangsm/Awesome-H-E-to-Spatial-Transcriptomics-Translation?style=social)](https://github.com/ZZhangsm/Awesome-H-E-to-Spatial-Transcriptomics-Translation)
+[![Visitors](https://visitor-badge.laobi.icu/badge?page_id=ZZhangsm.Awesome-Virtual-Spatial-Omics-Generation)](https://github.com/ZZhangsm/Awesome-Virtual-Spatial-Omics-Generation)
+[![GitHub](https://img.shields.io/github/stars/ZZhangsm/Awesome-Virtual-Spatial-Omics-Generation?style=social)](https://github.com/ZZhangsm/Awesome-Virtual-Spatial-Omics-Generation)
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 ## Overview
