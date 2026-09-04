@@ -233,6 +233,8 @@ This repository aims to collect and organize resources in this direction to faci
 | Year | Title | Venue | Method | Paper | Code |
 | ---- | ---------------------------------------------------------------------------------------------------------------------------------------------- | --------------------- | ------------- | ------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------ |
 | 2026 | **HisToSpatialCNV: an interpretable deep learning method predicting spatial copy number variations from histopathology images**                | Nature Biomedical Engineering | HisToSpatialCNV          | [link](https://www.nature.com/articles/s41551-026-01754-z) | - 
+| 2026 | **DeepPathway: Predicting Pathway Expression from Histopathology Images**                | Bioinformatics | DeepPathway          | [link](https://doi.org/10.1093/bioinformatics/btag643) | [link](https://github.com/aahsan045/DeepPathway)
+
 
 ## 🤝 Contributing
 
