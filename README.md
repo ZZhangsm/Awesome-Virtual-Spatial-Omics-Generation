@@ -247,18 +247,19 @@ This repository aims to collect and organize resources in this direction to faci
 
 ### Spatial Multi-Omics Translation
 
-| Year | Title | Venue | Method | Task | Paper | Code |
+| Year | Title | Venue | Method | Direction | Paper | Code |
 | ---- | --------------------------------------------------------------------------------------------------------------------- | ----------------- | ------- | ---------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------ | ----------------------------------------------- |
-| 2026 | **DGAT: a dual-graph attention network for inferring spatial protein landscapes from transcriptomics** | Nat. Commun. | DGAT | **Spatial RNA → Spatial Protein** | [link](https://doi.org/10.1038/s41467-026-73114-z) | [link](https://github.com/osmanbeyoglulab/DGAT) |
-| 2026 | **Inference of spatial chromatin accessibility via integration of spatial transcriptomics and single-cell multi-omics data** | Nat. Commun. | ISON | **Spatial RNA → Spatial ATAC** | [link](https://doi.org/10.1038/s41467-026-73948-7) | [link](https://github.com/Durenlab/ISON) |
-| 2026 | **Microenvironment-aware transcriptome reconstruction in spatial transcriptomics** | Nat. Commun. | Emerge | **Spatial RNA → Enhanced Spatial RNA** | [link](https://doi.org/10.1038/s41467-026-77349-8) | [link](https://github.com/st-yang97/Emerge) |
-| 2026 | **NicheTrans: spatial-aware cross-omics translation** | Nat. Methods | NicheTrans | **Spatial RNA → Spatial Protein / Metabolite** | [link](https://doi.org/10.1038/s41592-026-03153-3) | [link](https://github.com/YSTLab/NicheTrans) |
-| 2025 | **SpaTranslator: A deep generative framework for universal spatial multi-omics cross-modality translation** | bioRxiv | SpaTranslator | **Spatial Omics → Spatial Omics** | [link](https://doi.org/10.1101/2025.11.15.688644) | [link](https://github.com/donghongyu2020/SpaTranslator) |
-| 2025 | **SpaIM: single-cell spatial transcriptomics imputation via style transfer** | Nat. Commun. | SpaIM | **Spatial RNA → Enhanced Spatial RNA** | [link](https://doi.org/10.1038/s41467-025-63818-9) | — |
-| 2024 | **ENGEP: advancing spatial transcriptomics with accurate unmeasured gene expression prediction** | Genome Biology  | ENGEP | **Spatial RNA → Enhanced Spatial RNA** | [link](https://scholar.google.com/scholar?q=ENGEP%20advancing%20spatial%20transcriptomics%20with%20accurate%20unmeasured%20gene%20expression%20prediction) | — |
-| 2021 | **stPlus: a reference-based method for the accurate enhancement of spatial transcriptomics** | Bioinformatics | stPlus | **Spatial RNA → Enhanced Spatial RNA** | [link](https://doi.org/10.1093/bioinformatics/btab298) | [link](https://github.com/xy-chen16/stPlus) |
-| 2020 | **SpaGE: spatial gene enhancement using scRNA-seq** | Nucleic Acids Res. | SpaGE | **Spatial RNA → Enhanced Spatial RNA** | [link](https://doi.org/10.1093/nar/gkaa876) | [link](https://github.com/tabdelaal/SpaGE) |
-| 2019 | **Gene expression cartography** | Nature | novoSpaRc | **scRNA-seq → Spatial RNA** | [link](https://www.nature.com/articles/s41586-019-1773-3) | [link](https://github.com/rajewsky-lab/novosparcr) |
+| 2026 | **DGAT: a dual-graph attention network for inferring spatial protein landscapes from transcriptomics** | Nat. Commun. | DGAT | Spatial RNA → Protein | [link](https://doi.org/10.1038/s41467-026-73114-z) | [link](https://github.com/osmanbeyoglulab/DGAT) |
+| 2026 | **Inference of spatial chromatin accessibility via integration of spatial transcriptomics and single-cell multi-omics data** | Nat. Commun. | ISON | Spatial RNA → ATAC | [link](https://doi.org/10.1038/s41467-026-73948-7) | [link](https://github.com/Durenlab/ISON) |
+| 2026 | **Microenvironment-aware transcriptome reconstruction in spatial transcriptomics** | Nat. Commun. | Emerge | Spatial RNA → Enhanced RNA | [link](https://doi.org/10.1038/s41467-026-77349-8) | [link](https://github.com/st-yang97/Emerge) |
+| 2026 | **NicheTrans: spatial-aware cross-omics translation** | Nat. Methods | NicheTrans | Spatial RNA → Protein / Metabolite | [link](https://doi.org/10.1038/s41592-026-03153-3) | [link](https://github.com/YSTLab/NicheTrans) |
+| 2025 | **SpaTranslator: A deep generative framework for universal spatial multi-omics cross-modality translation** | bioRxiv | SpaTranslator | Spatial Omics → Spatial Omics | [link](https://doi.org/10.1101/2025.11.15.688644) | [link](https://github.com/donghongyu2020/SpaTranslator) |
+| 2025 | **SpaIM: single-cell spatial transcriptomics imputation via style transfer** | Nat. Commun. | SpaIM | Spatial RNA → Enhanced RNA | [link](https://doi.org/10.1038/s41467-025-63818-9) | — |
+| 2024 | **ENGEP: advancing spatial transcriptomics with accurate unmeasured gene expression prediction** | Genome Biology | ENGEP | Spatial RNA → Enhanced RNA | [link](https://scholar.google.com/scholar?q=ENGEP%20advancing%20spatial%20transcriptomics%20with%20accurate%20unmeasured%20gene%20expression%20prediction) | — |
+| 2021 | **stPlus: a reference-based method for the accurate enhancement of spatial transcriptomics** | Bioinformatics | stPlus | Spatial RNA → Enhanced RNA | [link](https://doi.org/10.1093/bioinformatics/btab298) | [link](https://github.com/xy-chen16/stPlus) |
+| 2020 | **SpaGE: spatial gene enhancement using scRNA-seq** | Nucleic Acids Res. | SpaGE | Spatial RNA → Enhanced RNA | [link](https://doi.org/10.1093/nar/gkaa876) | [link](https://github.com/tabdelaal/SpaGE) |
+| 2019 | **Gene expression cartography** | Nature | novoSpaRc | scRNA-seq → Spatial RNA | [link](https://www.nature.com/articles/s41586-019-1773-3) | [link](https://github.com/rajewsky-lab/novosparcr) |
+
 ## 🤝 Contributing
 
  Contributions are welcome!  
