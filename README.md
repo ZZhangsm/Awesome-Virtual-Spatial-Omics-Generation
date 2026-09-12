@@ -247,13 +247,14 @@ This repository aims to collect and organize resources in this direction to faci
 
 ### Spatial Multi-Omics Translation
 
-| Year | Title | Venue | Method  | Paper | Code |
-| ---- | --------------------------------------------------------------------------------------------------------------------- | ----------------- | ------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------ | ----------------------------------------------- |
-| 2026 | **DGAT: a dual-graph attention network for inferring spatial protein landscapes from transcriptomics** | Nat. Commun. | DGAT | [link](https://doi.org/10.1038/s41467-026-73114-z) | [link](https://github.com/osmanbeyoglulab/DGAT) |
-| 2026 | **Inference of spatial chromatin accessibility via integration of spatial transcriptomics and single-cell multi-omics data** | Nat. Commun. | ISON | [link](https://doi.org/10.1038/s41467-026-73948-7) | [link](https://github.com/Durenlab/ISON) |
-| 2026 | **Microenvironment-aware transcriptome reconstruction in spatial transcriptomics** | Nat. Commun. | Emerge | [link](https://doi.org/10.1038/s41467-026-77349-8) | [link](https://github.com/st-yang97/Emerge) |
-| 2026 | **NicheTrans: spatial-aware cross-omics translation** | Nat. Methods | NicheTrans | [link](https://doi.org/10.1038/s41592-026-03153-3) | [link](https://github.com/YSTLab/NicheTrans) |
-| 2025 | **SpaTranslator: A deep generative framework for universal spatial multi-omics cross-modality translation** | bioRxiv | SpaTranslator | [link](https://doi.org/10.1101/2025.11.15.688644) | [link](https://github.com/donghongyu2020/SpaTranslator) |
+| Year | Title | Venue | Method | Translation Direction | Paper | Code |
+| ---- | --------------------------------------------------------------------------------------------------------------------- | ----------------- | ------- | ---------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------ | ----------------------------------------------- |
+| 2026 | **DGAT: a dual-graph attention network for inferring spatial protein landscapes from transcriptomics** | Nat. Commun. | DGAT | **RNA → Protein** | [link](https://doi.org/10.1038/s41467-026-73114-z) | [link](https://github.com/osmanbeyoglulab/DGAT) |
+| 2026 | **Inference of spatial chromatin accessibility via integration of spatial transcriptomics and single-cell multi-omics data** | Nat. Commun. | ISON | **RNA → ATAC** | [link](https://doi.org/10.1038/s41467-026-73948-7) | [link](https://github.com/Durenlab/ISON) |
+| 2026 | **Microenvironment-aware transcriptome reconstruction in spatial transcriptomics** | Nat. Commun. | Emerge | **Targeted RNA → Genome-wide RNA** | [link](https://doi.org/10.1038/s41467-026-77349-8) | [link](https://github.com/st-yang97/Emerge) |
+| 2026 | **NicheTrans: spatial-aware cross-omics translation** | Nat. Methods | NicheTrans | **RNA → Protein / Metabolite** | [link](https://doi.org/10.1038/s41592-026-03153-3) | [link](https://github.com/YSTLab/NicheTrans) |
+| 2025 | **SpaTranslator: A deep generative framework for universal spatial multi-omics cross-modality translation** | bioRxiv | SpaTranslator | **RNA / ATAC / Protein / Other → Cross-omics modality** | [link](https://doi.org/10.1101/2025.11.15.688644) | [link](https://github.com/donghongyu2020/SpaTranslator) |
+| 2019 | **Gene expression cartography** | Nature | novoSpaRc | **scRNA-seq → Spatial RNA** | [link](https://www.nature.com/articles/s41586-019-1773-3) | [link](https://github.com/rajewsky-lab/novosparcr) |
 
 ## 🤝 Contributing
 
