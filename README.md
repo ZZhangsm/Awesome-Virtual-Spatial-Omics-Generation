@@ -72,6 +72,7 @@ This repository aims to collect and organize resources in this direction to faci
 
 | Year | Title | Venue | Method     | Paper | Code |
 | ---- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ------------------------------------ | ---------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------ |
+| 2026 | **Microenvironment-aware transcriptome reconstruction in spatial transcriptomics** | Nat. Commun. | Emerge   | [link](https://doi.org/10.1038/s41467-026-77349-8) |  [link](https://github.com/st-yang97/Emerge)  |
 | 2026 | **Image2Gene: A Minimalist and Weakly-Supervised Framework for Morphology-Aligned Gene Expression Prediction From Histology Images** | JBHI | Image2Gene | [link](https://doi.org/10.1109/JBHI.2026.3691387) | - |
 | 2026 | **HisCMCL: cross-modal contrastive learning with hierarchical multi-scale fusion for spatial expression prediction** | Bioinformatics | HisCMCL | [link](https://doi.org/10.1093/bioinformatics/btag342) | [link](https://github.com/wenwenmin/HisCMCL) |
 | 2026 | **DUET: Dual-Paradigm Adaptive Expert Triage with Single-cell Inductive Prior for Spatial Transcriptomics Prediction** | arxiv | DUET | [link](https://arxiv.org/abs/2605.14104) | [link](https://github.com/Junchao-Zhu/DUET) |
