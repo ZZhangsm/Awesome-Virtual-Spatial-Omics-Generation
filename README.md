@@ -85,7 +85,7 @@ This repository aims to collect and organize resources in this direction to faci
 | 2026 | **Is H&E Image-to-Spatial Transcriptomics Simpler Than It Looks?** | arXiv | CGL | [link](https://arxiv.org/abs/2609.32857) | - |
 | 2026 | **Preserving DEG Rankings for Gene Discovery in Histology-Based Spatial Gene Expression Prediction** | arXiv | IDER | [link](https://arxiv.org/abs/2609.33928) | - |
 | 2026 | **GeneRAG: A Retrieval-Augmented Framework for Spatially Resolved Gene Expression Prediction** | MICCAI | GeneRAG | [link](https://doi.org/10.1007/978-3-032-38470-6_48) | [link](https://github.com/HyeongSubKim/GeneRAG) |
-| 2026 | **Cancer-Type-Agnostic Pan-Cancer Gene Expression Prediction from Histopathological Images** | MICCAI | - | [link](https://doi.org/10.1007/978-3-032-38470-6_39) | - |
+| 2026 | **Cancer-Type-Agnostic Pan-Cancer Gene Expression Prediction from Histopathological Images** | MICCAI | PIGP | [link](https://doi.org/10.1007/978-3-032-38470-6_39) |  [link](https://github.com/oceanflyfly/PIGP) |
 | 2026 | **Multi-Scale Mapping of Gene Expression from Whole-Slide Images for Identifying Phenotype-Associated Subpopulations** | Adv. Sci. | - | [link](https://doi.org/10.1002/advs.202521151) | - |
 | 2026 | **Trimodal, uncertainty-guided whole-slide framework for genome-scale spatial expression and image-only virtual perturbation in cancer cohorts** |  Genome Medicine  | Coladan   | [link](https://link.springer.com/article/10.1186/s13073-026-01713-y) |  [link](https://github.com/99wzj/Coladan)  |
 | 2026 | **CoxFormer enables spatial omics inference with multimodal generative modeling** | Nat. Commun. | CoxFormer   | [link](https://www.nature.com/articles/s41467-026-76404-8) |  [link](https://github.com/yyyancy/CoxFormer)  |
