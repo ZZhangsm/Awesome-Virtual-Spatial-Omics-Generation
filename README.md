@@ -64,7 +64,11 @@ This repository aims to collect and organize resources in this direction to faci
 | 2024 | **From whole-slide image to biomarker prediction: end-to-end weakly supervised deep learning in computational pathology** | Nat. Protoc.  | Protocol  | [link](https://www.nature.com/articles/s41596-024-01047-2)                                                                                                             |
 | 2024 | **HEST-1k: A dataset for spatial transcriptomics and histology image analysis** | NeurIPS | Benchmark | [link](https://doi.org/10.52202/079017-1704) |
 
+### H&E To Spatial Multi-omics
 
+| Year | Title | Venue | Method     | Paper | Code |
+| ---- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ------------------------------------ | ---------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------ |
+| 2026 | **Toward Computationally Complete Spatial Omics** | bioRxiv | COSIE | [link](https://www.biorxiv.org/content/10.64898/2026.03.03.709303v1.full) |  [link](https://cosie.readthedocs.io/en/latest/) |
 
 ### H&E To Spatial Transcriptomics
 
