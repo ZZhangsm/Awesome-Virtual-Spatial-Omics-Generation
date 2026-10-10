@@ -35,9 +35,7 @@ This repository aims to collect and organize resources in this direction to faci
     - [2023 and Earlier](#-2023-and-earlier)
   - [H&E Enhanced Spatial Transcriptomics](#he-enhanced-spatial-transcriptomics)
     - [2026](#-2026-1)
-    - [2025](#-2025-1)
-    - [2024](#-2024-1)
-    - [2022 and Earlier](#-2022-and-earlier)
+    - [2025 and Earlier](#-2025-and-earlier)
   - [H&E To Spatial Proteomics](#he-to-spatial-proteomics)
   - [H&E To Biomarker](#he-to-biomarker)
   - [H&E To Others](#he-to-others)
@@ -254,7 +252,7 @@ This repository aims to collect and organize resources in this direction to faci
 
 ### H&E Enhanced Spatial Transcriptomics
 
-Methods that use H&E histology images to **enhance** existing spatial transcriptomics measurements — deconvolution, super-resolution, densification, imputation, interpolation, 3D / continuous-field reconstruction, and restoration — rather than generating molecular profiles from H&E alone.
+> Methods that use H&E histology images to **enhance** existing spatial transcriptomics measurements — deconvolution, super-resolution, densification, imputation, interpolation, 3D / continuous-field reconstruction, and restoration — rather than generating molecular profiles from H&E alone.
 
 #### 🟪 2026
 
@@ -276,14 +274,14 @@ Methods that use H&E histology images to **enhance** existing spatial transcript
 | 2026 | **UniST: A Unified Computational Framework for 3D Spatial Transcriptomics Reconstruction**                                                   | bioRxiv           | UniST          | [link](https://doi.org/10.64898/2026.03.12.711362)     | -                                                   |
 | 2026 | **STAID: A Self-Refining Deep Learning Framework for Spatial Cell-Type Deconvolution with Biologically Informed Modeling**                   | Adv. Sci.         | STAID          | [link](https://doi.org/10.1002/advs.75607)             |  [link](https://github.com/jxLiu-bio/STAID)                                                |
 | 2026 | **MINT infers the latent single-cell spatial transcriptome from paired histology**                                                           | bioRxiv           | MINT           | [link](https://doi.org/10.64898/2026.09.16.751717)     | -                                                   |
-| 2026 | **SpatialCell AI achieves reference-free single-cell resolution from spot-based spatial transcriptomics through morphology**                 | Sci. Rep.         | SpatialCell AI | [link](https://doi.org/10.1038/s41598-026-55246-w)     | [link]([https://doi.org/10.5281/zenodo.20638204](https://github.com/Spatialcell/spatialcell-ai-validation/tree/main)) |
+| 2026 | **SpatialCell AI achieves reference-free single-cell resolution from spot-based spatial transcriptomics through morphology**                 | Sci. Rep.         | SpatialCell AI | [link](https://doi.org/10.1038/s41598-026-55246-w)     | [link](https://github.com/Spatialcell/spatialcell-ai-validation/tree/main) |
 | 2026 | **STITCH: Spatial Transcriptomics Imputation via Flow Matching with Internal Learning**                                                      | bioRxiv           | STITCH         | [link](https://doi.org/10.64898/2026.06.03.729557)     | [link](https://github.com/WANG-SUI/STITCH)                                                |
 | 2026 | **AI-enabled reconstruction of 3D spatial multi-omics at single-cell resolution**                                                            | bioRxiv           | Histo3D-MO              | [link](https://doi.org/10.64898/2026.07.09.737490)     | [link](https://github.com/ZacharyWang-007/Histo3D-MO)                                             |
 | 2026 | **Sparser2Sparse: Single-shot Sparser-to-Sparse Learning for Spatial Transcriptomics Imputation with Natural Image Co-learning**             | IEEE JBHI         | S2S-ST         | [link](https://doi.org/10.1109/JBHI.2026.3679252)      | [link](https://github.com/Yaoyu-F/S2S-ST)           |
 | 2026 | **Decoding spatial transcriptomics across multicellular and subcellular resolutions**                                                        | Nat. Commun.      | STARS          | [link](https://doi.org/10.1038/s41467-026-72872-0)     |  [link](https://github.com/Zhaocy-Research/STARS/tree/main)|
 
 
-#### 🟦 2025
+#### 🟦 2025 and Earlier
 
 | Year | Title | Venue | Method     | Paper | Code |
 | ---- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ------------------------------------ | ---------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------ |
@@ -292,18 +290,12 @@ Methods that use H&E histology images to **enhance** existing spatial transcript
 | 2025 | **STHD: probabilistic cell typing of single spots in whole transcriptome spatial data with high definition**                                   | Genome Biol.              | STHD          | [link](https://doi.org/10.1186/s13059-025-03608-4)      | [link](https://github.com/yi-zhang/STHD)                 |
 | 2025 | **STForte: tissue context-specific encoding and consistency-aware spatial imputation for spatially resolved transcriptomics**                  | Brief. Bioinform.         | STForte       | [link](https://doi.org/10.1093/bib/bbaf174)             | [link](https://github.com/poncey/STForte)                |
 | 2025 | **TSRST: A LongNet Transformer Model for Imputing Super-Resolution Spatial Transcriptomics**                                                   | IEEE BIBM                 | TSRST         | [link](https://doi.org/10.1109/BIBM66473.2025.11357199) | [link](https://github.com/wppqprwe/TSRST)                |
-| 2025 | **A Foundational Generative Model for Cross-platform Unified Enhancement of Spatial Transcriptomics**                                          | bioRxiv                   | FOCUS         | [link](https://doi.org/10.64898/2025.12.23.696267)      | -                                                        |
-| 2025 | **Deep learning-based 3D spatial transcriptomics with X-Pression**                                                                             | bioRxiv                   | X-Pression    | [link](https://doi.org/10.1101/2025.03.21.644627)       | -                                                        |
-| 2025 | **Single-cell spatial multi-omics molecular pathology enabled by SuperFocus**                                                                  | bioRxiv                   | SuperFocus    | [link](https://doi.org/10.64898/2025.12.26.696575)      | -                                                        |
-| 2025 | **SpaVGN: A hybrid deep learning framework for high-resolution spatial transcriptomics data reconstruction and spatial domain identification** | PLoS ONE                  | SpaVGN        | [link](https://doi.org/10.1371/journal.pone.0329122)    | -                                                        |
-| 2025 | **Adaptive Spatial Transcriptomics Interpolation via Cross-modal Cross-slice Modeling**                                                        | LNCS                      | -             | [link](https://doi.org/10.1007/978-3-032-04927-8_5)     | -                                                        |
-| 2025 | **Geometry-informed multimodal fusion network for enhancing high-density spatial transcriptomics from histology images**                       | Eng. Appl. Artif. Intell. | -             | link 待补                                                 | -                                                        |
-
-
-#### 🟩 2024
-
-| Year | Title | Venue | Method     | Paper | Code |
-| ---- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ------------------------------------ | ---------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------ |
+| 2025 | **A Foundational Generative Model for Cross-platform Unified Enhancement of Spatial Transcriptomics**                                          | bioRxiv                   | FOCUS         | [link](https://doi.org/10.64898/2025.12.23.696267)      | [link](https://github.com/LHY1007/FOCUS/)                                                      |
+| 2025 | **Deep learning-based 3D spatial transcriptomics with X-Pression**                                                                             | bioRxiv                   | X-Pression    | [link](https://doi.org/10.1101/2025.03.21.644627)       | [link](https://github.com/rockdeme/x-pression)                                                    |
+| 2025 | **Single-cell spatial multi-omics molecular pathology enabled by SuperFocus**                                                                  | bioRxiv                   | SuperFocus    | [link](https://doi.org/10.64898/2025.12.26.696575)      | [link](https://github.com/yaolu53/SuperFocus)                                                      |
+| 2025 | **SpaVGN: A hybrid deep learning framework for high-resolution spatial transcriptomics data reconstruction and spatial domain identification** | PLoS ONE                  | SpaVGN        | [link](https://doi.org/10.1371/journal.pone.0329122)    |[link](https://github.com/BIOQM/SpaVGN/tree/master)                                              |
+| 2025 | **Adaptive Spatial Transcriptomics Interpolation via Cross-modal Cross-slice Modeling**                                                        | MICCAI                      | -             | [link](https://doi.org/10.1007/978-3-032-04927-8_5)     | [link](https://github.com/XiaofeiWang2018/C2-STi)                                                       |
+| 2025 | **Geometry-informed multimodal fusion network for enhancing high-density spatial transcriptomics from histology images** | Eng. Appl. Artif. Intell. | HisHRST       | | [link](https://www.sciencedirect.com/science/article/abs/pii/S0952197625026788) |[link](https://github.com/wenwenmin/HisHRST)                                         |
 | 2024 | **Innovative super-resolution in spatial transcriptomics: a transformer model exploiting histology images and spatial gene expression** | Brief. Bioinform. | TransformerST | [link](https://doi.org/10.1093/bib/bbae052) | [link](https://github.com/Zhaocy-Research/TransformerST) |
 | 2024 | **Inferring super-resolution tissue architecture by integrating spatial transcriptomics with histology**                                                                       | Nat. Biotechnol.   | iStar          | [link](https://doi.org/10.1038/s41587-023-02019-9)                                                                                                                          | [link](https://github.com/daviddaiweizhang/istar)  |
 | 2024 | **High-density generation of spatial transcriptomics with STAGE**                                                                                                      | Nucleic Acids Res.             | STAGE     | [link](https://doi.org/10.1093/nar/gkae294)             | -                                                  |
@@ -314,13 +306,6 @@ Methods that use H&E histology images to **enhance** existing spatial transcript
 | 2024 | **Cross-Modal Diffusion Modelling for Super-Resolved Spatial Transcriptomics**                                                                                         | MICCAI                         | C3-Diff   | [link](https://doi.org/10.1007/978-3-031-72384-1_10)    | [link](https://github.com/XiaofeiWang2018/C3-Diff) |
 | 2024 | **Generation of super-resolution images from barcode-based spatial transcriptomics by deep image prior**                                                               | Cell Rep. Methods              | SuperST   | [link](https://doi.org/10.1016/j.crmeth.2024.100937)    | -                                                  |
 | 2024 | **Recovering single-cell expression profiles from spatial transcriptomics with scResolve**                                                                             | Cell Rep. Methods              | scResolve | [link](https://doi.org/10.1016/j.crmeth.2024.100864)    | [link](https://github.com/chenhcs/scResolve)       |
-| 2024 | **stEnTrans: Transformer-Based Deep Learning for Spatial Transcriptomics Enhancement**                                                                                 | LNCS                           | stEnTrans | [link](https://doi.org/10.1007/978-981-97-5128-0_6)     | [link](https://github.com/shuailinxue/stEnTrans)   |
-
-
-#### 🟨 2022 and Earlier
-
-| Year | Title | Venue | Method     | Paper | Code |
-| ---- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ------------------------------------ | ---------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------ |
 | 2022 | **Super-resolved spatial transcriptomics by deep data fusion** | Nat. Biotechnol. | XFuse | [link](https://doi.org/10.1038/s41587-021-01075-3) | [link](https://github.com/ludvb/xfuse) |
 
 
