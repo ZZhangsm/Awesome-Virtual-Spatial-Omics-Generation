@@ -53,27 +53,38 @@ This repository aims to collect and organize resources in this direction to faci
 
 ### Protocol, Benchmark and Survey
 
+#### Survey
 
-| Year | Title | Venue | Field     | Paper                                                                                                                                                                  |
-| ---- | ------------------- | ------------- | --------- | ------------------ |
-| 2026 | **Advances in predicting omics profiles from imaging data** | Brief. Bioinform. | Survey    | [link](https://doi.org/10.1093/bib/bbag090) |
-| 2026 | **Computational analysis in spatial transcriptomics: methods and perspectives** | Brief. Bioinform. | Survey    | [link](https://doi.org/10.1093/bib/bbag417) |
-| 2026 | **Computational methods for spatial multi-omics integration** | Biotechnol. Adv.  | Survey    | [link](https://doi.org/10.1016/j.biotechadv.2026.108807) |
-| 2026 | **Octave: Scale-Resolved Evaluation of Spatial Gene Expression Prediction from Histology**                                                                    | bioRxiv           | Benchmark | [link](https://doi.org/10.64898/2026.09.25.754484)       |
-| 2026 | **Independent benchmark of H\&E-based gene expression prediction in skin**                                                                                    | bioRxiv           | Benchmark | [link](https://doi.org/10.64898/2026.09.07.749926)       |
-| 2026 | **Predicting spatial transcriptomics from histology images: Progress, challenges, and directions** | EXO | Survey | [link](https://doi.org/10.70401/EXO.2026.0020) |
-| 2026 | **STP-BENCH: A Unified Systematic Benchmark for Virtual Spatial Transcriptomics from Histopathology Images** | arXiv | Benchmark | [link](https://arxiv.org/abs/2609.05956) |
-| 2026 | **A comprehensive survey of computer vision methods for spatial transcriptomics** | Brief. Bioinform. | Survey | [link](https://doi.org/10.1093/bib/bbag255) |
-| 2026 | **Histopathology-centered computational evolution of spatial omics: integration, mapping, and foundation models** |  Brief. Bioinform.  | Survey | [link](https://doi.org/10.1093/bib/bbag387)|
-| 2026 | **Benchmarking the translational potential of spatial gene expression prediction from histology**                         | Nat. Commun.  | Benchmark | [link](https://www.nature.com/articles/s41467-025-56618-y)                                                                                                             |
-| 2025 | **A Large-Scale Benchmark of Cross-Modal Learning for Histology and Gene Expression in Spatial Transcriptomics**          | ICCV Workshop | Benchmark | [link](https://openaccess.thecvf.com/content/ICCV2025W/CVAMD/html/Gindra_A_Large-Scale_Benchmark_of_Cross-Modal_Learning_for_Histology_and_Gene_ICCVW_2025_paper.html) |
-| 2025 | **Combining spatial transcriptomics with tissue morphology**                                                              | Nat. Commun.  | Survey    | [link](https://www.nature.com/articles/s41467-025-58989-8)                                                                                                             |
-| 2025 | **Generative Models in Computational Pathology: A Comprehensive Survey on Methods, Applications, and Challenges**         | arXiv         | Survey    | [link](https://arxiv.org/abs/2505.10993)                                                                                                                               |
-| 2024 | **An initial game-theoretic assessment of enhanced tissue preparation and imaging protocols for improved deep learning inference of spatial transcriptomics** | Brief. Bioinform. | Benchmark | [link](https://doi.org/10.1093/bib/bbae476)              |
-| 2024 | **From whole-slide image to biomarker prediction: end-to-end weakly supervised deep learning in computational pathology** | Nat. Protoc.  | Protocol  | [link](https://www.nature.com/articles/s41596-024-01047-2)                                                                                                             |
-| 2024 | **HEST-1k: A dataset for spatial transcriptomics and histology image analysis** | NeurIPS | Benchmark | [link](https://doi.org/10.52202/079017-1704) |
-| 2024 | **STimage-1K4M: A histopathology image-gene expression dataset for spatial transcriptomics**                                                                  | NeurIPS           | Dataset   | [link](https://doi.org/10.52202/079017-1129)             |
-| 2024 | **Linking transcriptome and morphology in bone cells at cellular resolution with generative AI** | J. Bone Miner. Res.            | Survey | [link](https://doi.org/10.1093/jbmr/zjae151)            | 
+| Year | Title                                                                                                         | Venue               | Paper                                                      |
+| ---- | ------------------------------------------------------------------------------------------------------------- | ------------------- | ---------------------------------------------------------- |
+| 2026 | Advances in predicting omics profiles from imaging data                                                       | Brief. Bioinform.   | [Link](https://doi.org/10.1093/bib/bbag090)                |
+| 2026 | Computational analysis in spatial transcriptomics: methods and perspectives                                   | Brief. Bioinform.   | [Link](https://doi.org/10.1093/bib/bbag417)                |
+| 2026 | Computational methods for spatial multi-omics integration                                                     | Biotechnol. Adv.    | [Link](https://doi.org/10.1016/j.biotechadv.2026.108807)   |
+| 2026 | Predicting spatial transcriptomics from histology images: Progress, challenges, and directions                | EXO                 | [Link](https://doi.org/10.70401/EXO.2026.0020)             |
+| 2026 | A comprehensive survey of computer vision methods for spatial transcriptomics                                 | Brief. Bioinform.   | [Link](https://doi.org/10.1093/bib/bbag255)                |
+| 2026 | Histopathology-centered computational evolution of spatial omics: integration, mapping, and foundation models | Brief. Bioinform.   | [Link](https://doi.org/10.1093/bib/bbag387)                |
+| 2025 | Combining spatial transcriptomics with tissue morphology                                                      | Nat. Commun.        | [Link](https://www.nature.com/articles/s41467-025-58989-8) |
+| 2025 | Generative Models in Computational Pathology: A Comprehensive Survey on Methods, Applications, and Challenges | arXiv               | [Link](https://arxiv.org/abs/2505.10993)                   |
+| 2024 | Linking transcriptome and morphology in bone cells at cellular resolution with generative AI                  | J. Bone Miner. Res. | [Link](https://doi.org/10.1093/jbmr/zjae151)               |
+
+#### Benchmark and Dataset
+
+| Year | Title                                                                                                                                                     | Venue             | Paper                                                                                                                                                                  |
+| ---- | --------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 2026 | Octave: Scale-Resolved Evaluation of Spatial Gene Expression Prediction from Histology                                                                    | bioRxiv           | [Link](https://doi.org/10.64898/2026.09.25.754484)                                                                                                                     |
+| 2026 | Independent benchmark of H\&E-based gene expression prediction in skin                                                                                    | bioRxiv           | [Link](https://doi.org/10.64898/2026.09.07.749926)                                                                                                                     |
+| 2026 | STP-BENCH: A Unified Systematic Benchmark for Virtual Spatial Transcriptomics from Histopathology Images                                                  | arXiv             | [Link](https://arxiv.org/abs/2609.05956)                                                                                                                               |
+| 2026 | Benchmarking the translational potential of spatial gene expression prediction from histology                                                             | Nat. Commun.      | [Link](https://www.nature.com/articles/s41467-025-56618-y)                                                                                                             |
+| 2025 | A Large-Scale Benchmark of Cross-Modal Learning for Histology and Gene Expression in Spatial Transcriptomics                                              | ICCV Workshop     | [Link](https://openaccess.thecvf.com/content/ICCV2025W/CVAMD/html/Gindra_A_Large-Scale_Benchmark_of_Cross-Modal_Learning_for_Histology_and_Gene_ICCVW_2025_paper.html) |
+| 2024 | An initial game-theoretic assessment of enhanced tissue preparation and imaging protocols for improved deep learning inference of spatial transcriptomics | Brief. Bioinform. | [Link](https://doi.org/10.1093/bib/bbae476)                                                                                                                            |
+| 2024 | HEST-1k: A dataset for spatial transcriptomics and histology image analysis                                                                               | NeurIPS           | [Link](https://doi.org/10.52202/079017-1704)                                                                                                                           |
+| 2024 | STimage-1K4M: A histopathology image-gene expression dataset for spatial transcriptomics                                                                  | NeurIPS           | [Link](https://doi.org/10.52202/079017-1129)                                                                                                                           |
+
+#### Protocol
+
+| Year | Title                                                                                                                 | Venue        | Paper                                                      |
+| ---- | --------------------------------------------------------------------------------------------------------------------- | ------------ | ---------------------------------------------------------- |
+| 2024 | From whole-slide image to biomarker prediction: end-to-end weakly supervised deep learning in computational pathology | Nat. Protoc. | [Link](https://www.nature.com/articles/s41596-024-01047-2) |
 
 
 ### H&E To Spatial Multi-omics
