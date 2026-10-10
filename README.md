@@ -86,12 +86,16 @@ This repository aims to collect and organize resources in this direction to faci
 | ---- | --------------------------------------------------------------------------------------------------------------------- | ------------ | ---------------------------------------------------------- |
 | 2024 | From whole-slide image to biomarker prediction: end-to-end weakly supervised deep learning in computational pathology | Nat. Protoc. | [Link](https://www.nature.com/articles/s41596-024-01047-2) |
 
+---
 
 ### H&E To Spatial Multi-omics
 
 | Year | Title | Venue | Method     | Paper | Code |
 | ---- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ------------------------------------ | ---------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------ |
 | 2026 | **Toward Computationally Complete Spatial Omics** | bioRxiv | COSIE | [link](https://www.biorxiv.org/content/10.64898/2026.03.03.709303v1.full) |  [link](https://cosie.readthedocs.io/en/latest/) |
+
+
+---
 
 ### H&E To Spatial Transcriptomics
 
@@ -261,6 +265,8 @@ This repository aims to collect and organize resources in this direction to faci
 | 2020 | **Integrating spatial gene expression and breast tumour morphology via deep learning**                                                          | Nat. Biomed. Eng. | ST-Net    | [link](https://www.nature.com/articles/s41551-020-0578-x)                                                                                                  | [link](https://github.com/bryanhe/ST-Net)     |
 
 
+---
+
 ### H&E Enhanced Spatial Transcriptomics
 
 > Methods that use H&E histology images to **enhance** existing spatial transcriptomics measurements — deconvolution, super-resolution, densification, imputation, interpolation, 3D / continuous-field reconstruction, and restoration — rather than generating molecular profiles from H&E alone.
@@ -319,6 +325,7 @@ This repository aims to collect and organize resources in this direction to faci
 | 2024 | **Recovering single-cell expression profiles from spatial transcriptomics with scResolve**                                                                             | Cell Rep. Methods              | scResolve | [link](https://doi.org/10.1016/j.crmeth.2024.100864)    | [link](https://github.com/chenhcs/scResolve)       |
 | 2022 | **Super-resolved spatial transcriptomics by deep data fusion** | Nat. Biotechnol. | XFuse | [link](https://doi.org/10.1038/s41587-021-01075-3) | [link](https://github.com/ludvb/xfuse) |
 
+---
 
 ### H&E To Spatial Proteomics
 
@@ -342,6 +349,8 @@ This repository aims to collect and organize resources in this direction to faci
 | 2024 | Pathological Semantics-Preserving Learning for H&E-to-IHC Virtual Staining | MICCAI | PSPStain | [Paper](https://doi.org/10.1007/978-3-031-72083-3_36) | [Code](https://github.com/ccitachi/PSPStain) |
 | 2023 | Adaptive Supervised PatchNCE Loss for Learning H&E-to-IHC Stain Translation with Inconsistent Groundtruth Image Pairs | MICCAI | ASP | [Paper](https://doi.org/10.1007/978-3-031-43987-2_61) | [Code](https://github.com/lifangda01/AdaptiveSupervisedPatchNCE) |
 
+
+---
 
 ### H&E To Biomarker
 
@@ -369,6 +378,7 @@ This repository aims to collect and organize resources in this direction to faci
 | 2023 | **Semi-Supervised, Attention-Based Deep Learning for Predicting TMPRSS2:ERG Fusion Status in Prostate Cancer Using Whole Slide Images**        | Mol. Cancer Res.      | -             | [link](https://pmc.ncbi.nlm.nih.gov/articles/PMC10985477/)                                  | [link](https://github.com/MohamedOmar2020/pca_ERG)                       |
 | 2023 | **Optimization of deep learning models for the prediction of gene mutations using unsupervised clustering**                                    | J. Pathol. Clin. Res. | -             | [link](https://pubmed.ncbi.nlm.nih.gov/36376239/)                                           | -                                                                        |
 
+---
 
 ### H&E To Others
 
@@ -380,6 +390,7 @@ This repository aims to collect and organize resources in this direction to faci
 | 2026 | **DeepPathway: Predicting Pathway Expression from Histopathology Images**                                                        | Bioinformatics                | DeepPathway     | **Pathway expression**       | [link](https://doi.org/10.1093/bioinformatics/btag643)               | [link](https://github.com/aahsan045/DeepPathway)                   |
 | 2026 | **Ultrarapid deep 3D histology enables intraoperative mapping of glioma infiltration**                                           | Cell                          | ULTRA           | **Glioma infiltration**      | [link](https://www.cell.com/cell/fulltext/S0092-8674%2826%2900824-X) | [link](https://github.com/Zhijie-Liu/Ultrarapid-Deep-3D-Histology) |
 
+---
 
 ### RNA To WSI
 
@@ -389,6 +400,7 @@ This repository aims to collect and organize resources in this direction to faci
 | 2026 | **GeneVAR: Causal MeanFlow for Autoregressive Gene-to-WSI Tile Synthesis**                                            | CVPR              | GeneVAR | [link](https://openaccess.thecvf.com/content/CVPR2026/papers/Zhao_GeneVAR_Causal_MeanFlow_for_Autoregressive_Gene-to-WSI_Tile_Synthesis_CVPR_2026_paper.pdf) | [link](https://github.com/JWZhao-uestc/GeneVAR) |
 | 2024 | **Generation of synthetic whole-slide image tiles of tumours from RNA-sequencing data via cascaded diffusion models** | Nat. Biomed. Eng. | RNA-CDM | [link](https://www.nature.com/articles/s41551-024-01193-8)                                                                                                   | [link](https://rna-cdm.stanford.edu/)           |
 
+---
 
 ### Spatial Multi-Omics Translation
 
@@ -409,6 +421,8 @@ This repository aims to collect and organize resources in this direction to faci
 | 2021 | **stPlus: a reference-based method for the accurate enhancement of spatial transcriptomics** | Bioinformatics | stPlus | Spatial RNA → Enhanced RNA | [link](https://doi.org/10.1093/bioinformatics/btab298) | [link](https://github.com/xy-chen16/stPlus) |
 | 2020 | **SpaGE: spatial gene enhancement using scRNA-seq** | Nucleic Acids Res. | SpaGE | Spatial RNA → Enhanced RNA | [link](https://doi.org/10.1093/nar/gkaa876) | [link](https://github.com/tabdelaal/SpaGE) |
 | 2019 | **Gene expression cartography** | Nature | novoSpaRc | scRNA-seq → Spatial RNA | [link](https://www.nature.com/articles/s41586-019-1773-3) | [link](https://github.com/rajewsky-lab/novosparcr) |
+
+---
 
 ## 🤝 Contributing
 
