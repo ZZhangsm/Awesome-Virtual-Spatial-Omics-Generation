@@ -73,6 +73,7 @@ This repository aims to collect and organize resources in this direction to faci
 | 2024 | **From whole-slide image to biomarker prediction: end-to-end weakly supervised deep learning in computational pathology** | Nat. Protoc.  | Protocol  | [link](https://www.nature.com/articles/s41596-024-01047-2)                                                                                                             |
 | 2024 | **HEST-1k: A dataset for spatial transcriptomics and histology image analysis** | NeurIPS | Benchmark | [link](https://doi.org/10.52202/079017-1704) |
 | 2024 | **STimage-1K4M: A histopathology image-gene expression dataset for spatial transcriptomics**                                                                  | NeurIPS           | Dataset   | [link](https://doi.org/10.52202/079017-1129)             |
+| 2024 | **Linking transcriptome and morphology in bone cells at cellular resolution with generative AI** | J. Bone Miner. Res.            | Survey | [link](https://doi.org/10.1093/jbmr/zjae151)            | 
 
 
 ### H&E To Spatial Multi-omics
@@ -230,7 +231,6 @@ This repository aims to collect and organize resources in this direction to faci
 | 2024 | **Integrating spatial transcriptomics and bulk RNA-seq: predicting gene expression with enhanced resolution through graph attention networks**                         | Brief. Bioinform.              | STGAT     | [link](https://doi.org/10.1093/bib/bbae316)             | [link](https://github.com/compbiolabucf/STGAT)     |
 | 2024 | **A contrastive learning approach to integrate spatial transcriptomics and histological images**                                                                       | Comput. Struct. Biotechnol. J. | ConGcR    | [link](https://doi.org/10.1016/j.csbj.2024.04.039)      | -                                                  |
 | 2024 | **A Fused Transformer-based Model for Gene Expression Prediction using Histopathology Images**                                                                         | IEEE BIBM                      | -         | [link](https://doi.org/10.1109/BIBM62325.2024.10821923) | -                                                  |
-| 2024 | **Linking transcriptome and morphology in bone cells at cellular resolution with generative AI**                                                                       | J. Bone Miner. Res.            | -         | [link](https://doi.org/10.1093/jbmr/zjae151)            | -                                                  |
 
 
 
