@@ -67,6 +67,8 @@ This repository aims to collect and organize resources in this direction to faci
 | 2025 | Generative Models in Computational Pathology: A Comprehensive Survey on Methods, Applications, and Challenges | arXiv               | [Link](https://arxiv.org/abs/2505.10993)                   |
 | 2024 | Linking transcriptome and morphology in bone cells at cellular resolution with generative AI                  | J. Bone Miner. Res. | [Link](https://doi.org/10.1093/jbmr/zjae151)               |
 
+#### Benchmark and Dataset
+
 | Year | Title | Venue | Paper | Code |
 | ---- | --------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----- |
 | 2026 | Octave: Scale-Resolved Evaluation of Spatial Gene Expression Prediction from Histology | bioRxiv | [Link](https://doi.org/10.64898/2026.09.25.754484) |[link](https://github.com/QSong-github/OCTAVE) |
