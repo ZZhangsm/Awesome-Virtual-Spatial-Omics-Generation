@@ -69,14 +69,14 @@ This repository aims to collect and organize resources in this direction to faci
 
 | Year | Title | Venue | Paper | Code |
 | ---- | --------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----- |
-| 2026 | Octave: Scale-Resolved Evaluation of Spatial Gene Expression Prediction from Histology | bioRxiv | [Link](https://doi.org/10.64898/2026.09.25.754484) | - |
+| 2026 | Octave: Scale-Resolved Evaluation of Spatial Gene Expression Prediction from Histology | bioRxiv | [Link](https://doi.org/10.64898/2026.09.25.754484) |[link](https://github.com/QSong-github/OCTAVE) |
 | 2026 | Independent benchmark of H\&E-based gene expression prediction in skin | bioRxiv | [Link](https://doi.org/10.64898/2026.09.07.749926) | - |
-| 2026 | STP-BENCH: A Unified Systematic Benchmark for Virtual Spatial Transcriptomics from Histopathology Images | arXiv | [Link](https://arxiv.org/abs/2609.05956) | [NEXGEM/STP-Bench](https://github.com/NEXGEM/STP-Bench) ([GitHub][1]) |
-| 2026 | Benchmarking the translational potential of spatial gene expression prediction from histology | Nat. Commun. | [Link](https://www.nature.com/articles/s41467-025-56618-y) | [SydneyBioX/HEtoSGEBench](https://github.com/SydneyBioX/HEtoSGEBench) ([GitHub][2]) |
+| 2026 | STP-BENCH: A Unified Systematic Benchmark for Virtual Spatial Transcriptomics from Histopathology Images | arXiv | [Link](https://arxiv.org/abs/2609.05956) | [link](https://github.com/NEXGEM/STP-Bench) |
+| 2026 | Benchmarking the translational potential of spatial gene expression prediction from histology | Nat. Commun. | [Link](https://www.nature.com/articles/s41467-025-56618-y) |  [link](https://github.com/SydneyBioX/HEtoSGEBench)  |
 | 2025 | A Large-Scale Benchmark of Cross-Modal Learning for Histology and Gene Expression in Spatial Transcriptomics | ICCV Workshop | [Link](https://openaccess.thecvf.com/content/ICCV2025W/CVAMD/html/Gindra_A_Large-Scale_Benchmark_of_Cross-Modal_Learning_for_Histology_and_Gene_ICCVW_2025_paper.html) | - |
 | 2024 | An initial game-theoretic assessment of enhanced tissue preparation and imaging protocols for improved deep learning inference of spatial transcriptomics | Brief. Bioinform. | [Link](https://doi.org/10.1093/bib/bbae476) | - |
-| 2024 | HEST-1k: A dataset for spatial transcriptomics and histology image analysis | NeurIPS | [Link](https://doi.org/10.52202/079017-1704) | [mahmoodlab/HEST](https://github.com/mahmoodlab/HEST) ([GitHub][3]) |
-| 2024 | STimage-1K4M: A histopathology image-gene expression dataset for spatial transcriptomics | NeurIPS | [Link](https://doi.org/10.52202/079017-1129) | [JiawenChenn/STimage-1K4M](https://github.com/JiawenChenn/STimage-1K4M) ([GitHub][4]) |
+| 2024 | HEST-1k: A dataset for spatial transcriptomics and histology image analysis | NeurIPS | [Link](https://doi.org/10.52202/079017-1704) |  [link](https://github.com/mahmoodlab/HEST)) |
+| 2024 | STimage-1K4M: A histopathology image-gene expression dataset for spatial transcriptomics | NeurIPS | [Link](https://doi.org/10.52202/079017-1129) | [link](https://github.com/JiawenChenn/STimage-1K4M) |
 
 [1]: https://github.com/NEXGEM/STP-Bench?utm_source=chatgpt.com "GitHub - NEXGEM/STP-Bench · GitHub"
 
