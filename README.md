@@ -78,13 +78,6 @@ This repository aims to collect and organize resources in this direction to faci
 | 2024 | HEST-1k: A dataset for spatial transcriptomics and histology image analysis | NeurIPS | [Link](https://doi.org/10.52202/079017-1704) |  [link](https://github.com/mahmoodlab/HEST)) |
 | 2024 | STimage-1K4M: A histopathology image-gene expression dataset for spatial transcriptomics | NeurIPS | [Link](https://doi.org/10.52202/079017-1129) | [link](https://github.com/JiawenChenn/STimage-1K4M) |
 
-[1]: https://github.com/NEXGEM/STP-Bench?utm_source=chatgpt.com "GitHub - NEXGEM/STP-Bench · GitHub"
-
-[2]: https://github.com/SydneyBioX/HEtoSGEBench?utm_source=chatgpt.com "GitHub - SydneyBioX/HEtoSGEBench · GitHub"
-
-[3]: https://github.com/mahmoodlab/HEST?utm_source=chatgpt.com "GitHub - mahmoodlab/HEST: Integrating histology and spatial transcriptomics - NeurIPS 2024 · GitHub"
-
-[4]: https://github.com/JiawenChenn/STimage-1K4M?utm_source=chatgpt.com "GitHub - JiawenChenn/STimage-1K4M · GitHub"
 #### Protocol
 
 | Year | Title                                                                                                                 | Venue        | Paper                                                      |
