@@ -352,7 +352,7 @@ This repository aims to collect and organize resources in this direction to faci
 
 ---
 
-### H&E To Biomarker
+### H&E To DNA-based alterations
 
 
 | Year | Title                                                                                                                                          | Venue                 | Method        | Paper                                                                                       | Code                                                                     |
