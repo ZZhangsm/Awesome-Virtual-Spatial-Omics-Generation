@@ -113,6 +113,7 @@ This repository aims to collect and organize resources in this direction to faci
 | 2026 | **CELLO: Towards Scalable Context-Aware Single-Cell Spatial Transcriptomics Prediction from Histology Images** | NeurIPS | CELLO | [link](https://arxiv.org/abs/2609.36429) | [link](https://github.com/zjgao02/CELLO) |
 | 2026 | **CorrFlow: Correlation-Guided Flow Matching with Annealed Masking for Spatial Transcriptomics Generation** | arXiv | CorrFlow | [link](https://arxiv.org/abs/2609.22187) | - |
 | 2026 | **HisDiff: Hierarchical Diffusion Modeling for Spatial Gene Expression Prediction from Histology Images** | Pattern Recognition | HisDiff | [link](https://doi.org/10.1016/j.patcog.2026.114981) | [link](https://github.com/wenwenmin/HisDiff) |
+| 2026 | **SPATIA: Multimodal Model for Prediction and Generation of Spatial Cell Phenotypes** | ICML | SPATIA | [link](https://arxiv.org/abs/2507.04704) | [link](https://github.com/mims-harvard/SPATIA/tree/main) |
 | 2026 | **HiST: A Hierarchical Sparse Transformer for Cross-Modal Spatial Transcriptomics Modeling** | arXiv | HiST | [link](https://arxiv.org/abs/2606.14251) | [link](https://github.com/wwyi1828/HiST) |
 | 2026 | **HistoPrism: Unlocking Functional Pathway Analysis from Pan-Cancer Histology via Gene Expression Prediction** | ICLR | HistoPrism | [link](https://arxiv.org/abs/2601.21560) | [link](https://github.com/susuhu/HistoPrism) |
 | 2026 | **Is H&E Image-to-Spatial Transcriptomics Simpler Than It Looks?** | arXiv | CGL | [link](https://arxiv.org/abs/2609.32857) | - |
