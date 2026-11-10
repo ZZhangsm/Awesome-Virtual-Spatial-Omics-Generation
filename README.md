@@ -409,6 +409,7 @@ This repository aims to collect and organize resources in this direction to faci
 
 | Year | Title | Venue | Method | Direction | Paper | Code |
 | ---- | --------------------------------------------------------------------------------------------------------------------- | ----------------- | ------- | ---------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------ | ----------------------------------------------- |
+| 2026 | **Multiscale multimodal integration of spatial omics through a deep generative model** | Nature Biotechnology | CORAL |  Spatial Multi-Omics | [link](https://www.nature.com/articles/s41588-026-02821-6) | [code](https://github.com/zou-group/CORAL) |
 | 2025 | **Atlas-scale metabolic activities inferred from single-cell and spatial transcriptomics** | bioRxiv | scCellFie | Single-cell/ST → metabolic activity | [link](https://www.biorxiv.org/content/10.1101/2025.05.09.653038v1) | [code](https://github.com/earmingol/sccellfie) |
 | 2026 | **xMINT: A Multimodal Integration Transformer for Xenium Gene Imputation** | preprint     | xMINT       | Spatial RNA → Enhanced RNA | - | - |
 | 2026 | **SPINE: context-guided iterative protein inference from spatial transcriptomes** | Expert Syst. Appl. | SPINE | Spatial RNA → Protein | [link](https://doi.org/10.1016/j.eswa.2026.133652) | - |
