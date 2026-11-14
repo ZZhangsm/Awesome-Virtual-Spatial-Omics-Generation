@@ -335,6 +335,7 @@ This repository aims to collect and organize resources in this direction to faci
 
 | Year | Title | Venue | Method | Paper | Code |
 |------|-------|-------|--------|-------|------|
+| 2026 | The deep learning framework Hist2Prot infers single-cell spatial proteomics from histology to predict biomarkers and clinical outcomes | Nat. Cancer | Hist2Prot | [Paper](https://www.nature.com/articles/s43018-026-01270-8) | [Code](https://github.com/Jsf826/Hist2Prot) |
 | 2026 | HOPE: Interpretable Histology Analysis with Spatial Omics-Derived Signatures for Precision Oncology | bioRxiv | HOPE | [Paper](https://www.biorxiv.org/content/10.64898/2026.06.03.729847v1.full.pdf) | [Code](https://github.com/wangtyi/HOPE) |
 | 2026 | OmicsFM brings proteomics into the foundation model era | bioRxiv | OmicsFM | [Paper](https://www.biorxiv.org/content/10.64898/2026.08.25.747021v1) | [Code](https://github.com/CompOmics/OmicsFM) |
 | 2026 | The Virtual Tissues foundation model resolves spatial proteomics across scales | Nature | VirTues | [Paper](https://www.nature.com/articles/s41586-026-10884-y) | [Code](https://github.com/bunnelab/virtues) |
